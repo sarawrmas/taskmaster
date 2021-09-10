@@ -8,7 +8,7 @@
 * [Credits](#credits)
 
 ## Deployed
-Access the website at https://sarawrmas.github.io/taskmaster-pro/
+Access the website at https://sarawrmas.github.io/taskmaster/
 
 ## Technologies
 * HTML
