@@ -5,6 +5,7 @@
 * [Description](#description)
 * [Technologies](#technologies)
 * [Usage](#usage)
+* [Preview](#preview)
 * [Questions](#questions)
 * [Credits](#credits)
 
@@ -35,6 +36,9 @@ To edit a task's text, click on the task body and it will turn into a textbox. F
 To delete one task, click and drag it out of place and a red trash bin will appear at the bottom of the screen. Drag the task into the trash bin and your task will be deleted.
 
 To delete all tasks, select "Delete All Tasks" from the left-hand menu.
+
+## Preview
+<img src="assets/images/preview.gif" alt="A gif preview of the application" width="500px">
 
 ## Questions
 Have questions about this project?  
