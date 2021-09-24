@@ -10,7 +10,7 @@
 * [Credits](#credits)
 
 ## Deployed
-Access the website at https://sarawrmas.github.io/taskmaster-pro/
+Access the website at https://sarawrmas.github.io/taskmaster/
 
 ## Description
 Task Master Pro is the new pro edition of Taskinator. This new update features a clean interface for an improved user experience and draggable functionality to update tasks.
